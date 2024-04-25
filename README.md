@@ -58,19 +58,16 @@ Below, we provide a brief summary of the project, the libraries used, and an out
 ## Content of tutorial-s3.ipynb
 This is the architecture once the files are loaded
 
-data/
-|--- LivingRoom_preprocessed_hack/
-|   |--- Empty/
-|   |--- deconvolved.npy
-|--- Human1/
-|   |--- centroid.npy
-|   |--- deconvoled_trim.npy
-|   |--- skeletons.npy
-|--- Human2/
-|   |--- centroid.npy
-|   |--- deconvolved_trim.npy
-|   |--- skeletons.npy
+data/  
+|-- LivingRoom_preprocessed_hack/  
+|   |-- Empty/  
+|   |-- deconvolved.npy  
+|-- Human1/  
+|   |-- centroid.npy  
+|   |-- deconvoled_trim.npy  
+|   |-- skeletons.npy  
+|-- Human2/  
+|   |-- centroid.npy  
+|   |-- deconvolved_trim.npy  
+|   |-- skeletons.npy
 
-    centroid.npy
-    deconvolved_tfm.npy
-    skeletons.npy
