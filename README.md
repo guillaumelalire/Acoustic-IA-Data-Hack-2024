@@ -57,17 +57,17 @@ Below, we provide a brief summary of the project, the libraries used, and an out
 
 ## Content of tutorial-s3.ipynb
 This is the architecture once the files are loaded
+* [data](./data)
+  * [LivingRoom_preprocessed_hack](./data/LivingRoom_preprocessed_hack)
+    * [Empty](./data/LivingRoom_preprocessed_hack/Empty)
+        * [deconvolved.npy](./data/LivingRoom_preprocessed_hack/Human1/deconvovled.npy)
+    * [Human1](./data/LivingRoom_preprocessed_hack/Human1)
+        * [centroid.npy](./data/LivingRoom_preprocessed_hack/Human1/centroid.npy)
+        * [deconvoled_trim.npy](./data/LivingRoom_preprocessed_hack/Human1/deconvoled_trim.npy)
+        * [skeletons.npy](./data/LivingRoom_preprocessed_hack/Human2/skeletons.npy)
+    * [Human2](./data/LivingRoom_preprocessed_hack/Human2)
+        * [centroid.npy](./data/LivingRoom_preprocessed_hack/Human2/centroid.npy)
+        * [deconvoled_trim.npy](./data/LivingRoom_preprocessed_hack/Human2/deconvoled_trim.npy)
+        * [skeletons.npy](./data/LivingRoom_preprocessed_hack/Human2/skeletons.npy)
 
-data/  
-|-- LivingRoom_preprocessed_hack/  
-|   |-- Empty/  
-|   |-- deconvolved.npy  
-|-- Human1/  
-|   |-- centroid.npy  
-|   |-- deconvoled_trim.npy  
-|   |-- skeletons.npy  
-|-- Human2/  
-|   |-- centroid.npy  
-|   |-- deconvolved_trim.npy  
-|   |-- skeletons.npy
 
