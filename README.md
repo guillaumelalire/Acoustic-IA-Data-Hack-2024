@@ -19,7 +19,9 @@ Below, we provide a brief summary of the project, the libraries used, and an out
 - tensorflow_hub
 - keras
 
-## Content
+
+
+## Content of acoustic.ipynb
 
 ### 1. Initialization
 
@@ -51,3 +53,20 @@ Below, we provide a brief summary of the project, the libraries used, and an out
 - Introduction to VGGish model for audio feature extraction.
 - Loading and implementation of VGGish using TensorFlow Hub.
 
+
+
+## Content of tutorial-s3.ipynb
+This is the architecture once the files are loaded
+
+data/
+    LivingRoom_preprocessed_hack/
+    ayrilb_checkpoints/
+    Empty/
+    deconvolved.npy
+Human1/
+    centroid.npy
+    deconvolved_tfm.npy
+Human2/
+    centroid.npy
+    deconvolved_tfm.npy
+    skeletons.npy
