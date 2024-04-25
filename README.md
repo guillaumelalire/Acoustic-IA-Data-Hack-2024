@@ -51,7 +51,7 @@ Below, we provide a brief summary of the project, the libraries used, and an out
 ### 7. VGGish
 
 - Introduction to VGGish model for audio feature extraction.
-- Loading and implementation of VGGish using TensorFlow Hub.
+- Loading and implementation of single channel VGGish using TensorFlow Hub.
 
 
 
